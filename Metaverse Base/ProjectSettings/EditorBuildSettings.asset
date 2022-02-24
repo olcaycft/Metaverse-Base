@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EventHall 1.unity
+    guid: 861a416c4c92da84a9adabc9752e8f45
   m_configObjects: {}
